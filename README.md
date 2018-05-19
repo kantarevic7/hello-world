@@ -1,2 +1,3 @@
 # hello-world
-Something to do.
+Hello!
+I'm here to learn something new, and get experience about making projects etc.
